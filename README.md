@@ -1,7 +1,6 @@
 # CDZCLIApplication
 
-[![Version](http://cocoapod-badges.herokuapp.com/v/CDZCLIApplication/badge.png)](http://cocoadocs.org/docsets/CDZCLIApplication)
-[![Platform](http://cocoapod-badges.herokuapp.com/p/CDZCLIApplication/badge.png)](http://cocoadocs.org/docsets/CDZCLIApplication)
+[![No Maintenance Intended](http://unmaintained.tech/badge.svg)](http://unmaintained.tech/)
 
 Useful framework for building nontrivial CLI applications.
 
